@@ -7,7 +7,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-sarahouteiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sarahouteiro/)](https://www.linkedin.com/in/sarahouteiro/)
 
 </div>
-<h2>🛠👩🏻‍💻 About Me</h2>
+<h2>👩🏻‍💻 About Me</h2>
 
 - 🪐 I’m currently working on an Ifood clone using react
 - 🇧🇷 I am brazilian
