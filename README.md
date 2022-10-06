@@ -9,7 +9,7 @@
 </div>
 <h2>👩🏻‍💻 About Me</h2>
 
-- 🪐 I’m currently working on an Ifood clone using react
+- 🪐 I’m currently working on an Tarot platform using react
 - 🇧🇷 I am brazilian
 - 🎨 I love to work with beautiful color palletes!
 - 😄 Pronouns: she/her
