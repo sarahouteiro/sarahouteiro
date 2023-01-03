@@ -9,7 +9,7 @@
 </div>
 <h2>👩🏻‍💻 About Me</h2>
 
-- I’m currently working on a TMDB platform using react
+- I’m currently a Front End Engineer at www.personare.com.br
 - 🇧🇷 I am brazilian
 - 🎨 I love to work with beautiful color palletes!
 - 😄 Pronouns: she/her
